@@ -1,2 +1,2 @@
-# kolejne_podkreslniki_nowe_albo_nie
-This is Mój super nowy projekt
+# maven_template
+This is testow2o12345
